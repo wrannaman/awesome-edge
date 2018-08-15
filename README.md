@@ -1,4 +1,4 @@
-# awesome-edge
+# Awesome-Edge
 Fog computing and edge computing are here. Tool up ! 🛠 
 
 
